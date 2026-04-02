@@ -1,0 +1,286 @@
+{
+  "_AuraLayout-CGC5WvXh.js": {
+    "file": "assets/AuraLayout-CGC5WvXh.js",
+    "name": "AuraLayout",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_AuthLayout-DDnZuPjF.js": {
+    "file": "assets/AuthLayout-DDnZuPjF.js",
+    "name": "AuthLayout",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_hls-DoeomEOv.js": {
+    "file": "assets/hls-DoeomEOv.js",
+    "name": "hls"
+  },
+  "_index-B6_3PTYU.js": {
+    "file": "assets/index-B6_3PTYU.js",
+    "name": "index"
+  },
+  "_mixin-DIQKSja0.js": {
+    "file": "assets/mixin-DIQKSja0.js",
+    "name": "mixin"
+  },
+  "_sparkles-Wyc9xYbJ.js": {
+    "file": "assets/sparkles-Wyc9xYbJ.js",
+    "name": "sparkles",
+    "imports": [
+      "_AuraLayout-CGC5WvXh.js"
+    ]
+  },
+  "node_modules/@mux/mux-player-react/dist/index.mjs": {
+    "file": "assets/index-CncTgO04.js",
+    "name": "index",
+    "src": "node_modules/@mux/mux-player-react/dist/index.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_hls-DoeomEOv.js",
+      "_mixin-DIQKSja0.js"
+    ]
+  },
+  "node_modules/dash-video-element/dist/react.js": {
+    "file": "assets/react-Cub6JEmw.js",
+    "name": "react",
+    "src": "node_modules/dash-video-element/dist/react.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_mixin-DIQKSja0.js"
+    ],
+    "dynamicImports": [
+      "node_modules/dashjs/dist/modern/esm/dash.all.min.js"
+    ]
+  },
+  "node_modules/dashjs/dist/modern/esm/dash.all.min.js": {
+    "file": "assets/dash.all.min-CxCzYvwe.js",
+    "name": "dash.all.min",
+    "src": "node_modules/dashjs/dist/modern/esm/dash.all.min.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/hls-video-element/dist/react.js": {
+    "file": "assets/react-B1hxFEz4.js",
+    "name": "react",
+    "src": "node_modules/hls-video-element/dist/react.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_mixin-DIQKSja0.js",
+      "_hls-DoeomEOv.js"
+    ]
+  },
+  "node_modules/react-player/dist/Preview.js": {
+    "file": "assets/Preview-sYXQWGAB.js",
+    "name": "Preview",
+    "src": "node_modules/react-player/dist/Preview.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "node_modules/spotify-audio-element/dist/react.js": {
+    "file": "assets/react-CrizjSqT.js",
+    "name": "react",
+    "src": "node_modules/spotify-audio-element/dist/react.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "node_modules/tiktok-video-element/dist/react.js": {
+    "file": "assets/react-Dne-pI-9.js",
+    "name": "react",
+    "src": "node_modules/tiktok-video-element/dist/react.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "node_modules/twitch-video-element/dist/react.js": {
+    "file": "assets/react-BhthlPTq.js",
+    "name": "react",
+    "src": "node_modules/twitch-video-element/dist/react.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "node_modules/vimeo-video-element/dist/react.js": {
+    "file": "assets/react-CiQxWHz4.js",
+    "name": "react",
+    "src": "node_modules/vimeo-video-element/dist/react.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-B6_3PTYU.js"
+    ]
+  },
+  "node_modules/wistia-video-element/dist/react.js": {
+    "file": "assets/react-CdsiyfQ6.js",
+    "name": "react",
+    "src": "node_modules/wistia-video-element/dist/react.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "node_modules/youtube-video-element/dist/react.js": {
+    "file": "assets/react-CMpwFWeI.js",
+    "name": "react",
+    "src": "node_modules/youtube-video-element/dist/react.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-B6_3PTYU.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.jsx": {
+    "file": "assets/ForgotPassword-m0nowEkn.js",
+    "name": "ForgotPassword",
+    "src": "resources/js/Pages/Auth/ForgotPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthLayout-DDnZuPjF.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "file": "assets/Login-B77_OeGN.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Auth/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthLayout-DDnZuPjF.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "file": "assets/Register-uW0UU_49.js",
+    "name": "Register",
+    "src": "resources/js/Pages/Auth/Register.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthLayout-DDnZuPjF.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.jsx": {
+    "file": "assets/ResetPassword-IaPZUaAe.js",
+    "name": "ResetPassword",
+    "src": "resources/js/Pages/Auth/ResetPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthLayout-DDnZuPjF.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyNotice.jsx": {
+    "file": "assets/VerifyNotice-BBuTHUGk.js",
+    "name": "VerifyNotice",
+    "src": "resources/js/Pages/Auth/VerifyNotice.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthLayout-DDnZuPjF.js"
+    ]
+  },
+  "resources/js/Pages/Playlists/Create.jsx": {
+    "file": "assets/Create-BSFJjrYo.js",
+    "name": "Create",
+    "src": "resources/js/Pages/Playlists/Create.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuraLayout-CGC5WvXh.js",
+      "_sparkles-Wyc9xYbJ.js"
+    ]
+  },
+  "resources/js/Pages/Playlists/Index.jsx": {
+    "file": "assets/Index-B-AaAduO.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Playlists/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuraLayout-CGC5WvXh.js"
+    ]
+  },
+  "resources/js/Pages/Playlists/Show.jsx": {
+    "file": "assets/Show-Cq5SAOJW.js",
+    "name": "Show",
+    "src": "resources/js/Pages/Playlists/Show.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuraLayout-CGC5WvXh.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Show.jsx": {
+    "file": "assets/Show-DVbWl8Ul.js",
+    "name": "Show",
+    "src": "resources/js/Pages/Profile/Show.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuraLayout-CGC5WvXh.js"
+    ]
+  },
+  "resources/js/Pages/Songs/Create.jsx": {
+    "file": "assets/Create-1lhxG36Q.js",
+    "name": "Create",
+    "src": "resources/js/Pages/Songs/Create.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuraLayout-CGC5WvXh.js",
+      "_sparkles-Wyc9xYbJ.js"
+    ]
+  },
+  "resources/js/Pages/Songs/Index.jsx": {
+    "file": "assets/Index-BDpwLXqr.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Songs/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuraLayout-CGC5WvXh.js",
+      "_sparkles-Wyc9xYbJ.js"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-S-wbH596.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/hls-video-element/dist/react.js",
+      "node_modules/dash-video-element/dist/react.js",
+      "node_modules/@mux/mux-player-react/dist/index.mjs",
+      "node_modules/youtube-video-element/dist/react.js",
+      "node_modules/vimeo-video-element/dist/react.js",
+      "node_modules/wistia-video-element/dist/react.js",
+      "node_modules/spotify-audio-element/dist/react.js",
+      "node_modules/twitch-video-element/dist/react.js",
+      "node_modules/tiktok-video-element/dist/react.js",
+      "node_modules/react-player/dist/Preview.js",
+      "resources/js/Pages/Auth/ForgotPassword.jsx",
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Auth/ResetPassword.jsx",
+      "resources/js/Pages/Auth/VerifyNotice.jsx",
+      "resources/js/Pages/Playlists/Create.jsx",
+      "resources/js/Pages/Playlists/Index.jsx",
+      "resources/js/Pages/Playlists/Show.jsx",
+      "resources/js/Pages/Profile/Show.jsx",
+      "resources/js/Pages/Songs/Create.jsx",
+      "resources/js/Pages/Songs/Index.jsx"
+    ],
+    "css": [
+      "assets/app-Dkkjqc5R.css"
+    ]
+  }
+}

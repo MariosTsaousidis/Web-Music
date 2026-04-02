@@ -1,0 +1,17 @@
+{
+    "name": "Music Web Player",
+    "short_name": "Music Web",
+    "description": "Your personal offline Spotify clone.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#1db954",
+    "icons": [
+        {
+            "src": "/icon.svg",
+            "sizes": "192x192 512x512",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
